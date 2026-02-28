@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Switch Up",
+  "base_artist": "woo!ah! (우아!)",
+  "createdAt": "2026-02-28T07:49:56.753698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Switch Up",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/01_Never_Switch_Up_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Big Sean feat. Common",
+      "has_synced": true,
+      "path": "select/02_Switch_Up_Big_Sean_feat._Common.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Switch Up (feat. Common)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/03_Switch_Up_(feat._Common)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Switch Up (feat. Lil Wayne & Jeremih)",
+      "artist": "R. Kelly feat. Lil Wayne & Jeremih",
+      "has_synced": true,
+      "path": "select/04_Switch_Up_(feat._Lil_Wayne_&_Jeremih)_R._Kelly_feat._Lil_Wayne_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Switch Up (Feat. Lil Wayne & Jeremih)",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/05_Switch_Up_(Feat._Lil_Wayne_&_Jeremih)_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "switch up",
+      "artist": "Lil Peep",
+      "has_synced": false,
+      "path": "select/06_switch_up_Lil_Peep.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Sleepy Hallow",
+      "has_synced": true,
+      "path": "select/07_Switch_Up_Sleepy_Hallow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/08_Switch_Up_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "switch up",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/09_switch_up_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "woo!ah!",
+      "has_synced": true,
+      "path": "select/10_Switch_Up_woo!ah!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothin' on You (feat. Bruno Mars) - TC's Switch-Up Remix",
+      "artist": "B.o.B feat. Bruno Mars",
+      "has_synced": false,
+      "path": "select/11_Nothin'_on_You_(feat._Bruno_Mars)_-_TC's_Switch-Up_Remix_B.o.B_feat._Bruno_Mars.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Dville Santa",
+      "has_synced": false,
+      "path": "select/12_Switch_Up_Dville_Santa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "R. Kelly feat. Lil Wayne & Jeremih",
+      "has_synced": true,
+      "path": "select/13_Switch_Up_R._Kelly_feat._Lil_Wayne_&_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Lyrica Anderson",
+      "has_synced": false,
+      "path": "select/14_Switch_Up_Lyrica_Anderson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Eric Bellinger",
+      "has_synced": true,
+      "path": "select/15_Switch_Up_Eric_Bellinger.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/16_Switch_Up_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "GASHI",
+      "has_synced": true,
+      "path": "select/17_Switch_Up_GASHI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Switch Up (feat. Fenix Flexin')",
+      "artist": "Bravo the Bagchaser feat. Fenix Flexin",
+      "has_synced": false,
+      "path": "select/18_Switch_Up_(feat._Fenix_Flexin')_Bravo_the_Bagchaser_feat._Fenix_Flexin.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Switch Up (feat. Fenix Flexin)",
+      "artist": "Bravo the Bagchaser",
+      "has_synced": false,
+      "path": "select/19_Switch_Up_(feat._Fenix_Flexin)_Bravo_the_Bagchaser.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Switch Up",
+      "artist": "woo!ah!",
+      "has_synced": false,
+      "path": "select/pl_01_Switch_Up_woo!ah!.txt"
+    }
+  ]
+}
