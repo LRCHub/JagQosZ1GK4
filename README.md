@@ -1,0 +1,78 @@
+# woo!ah! (우아!) – Switch Up
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.93] Yeah, I guess we here for another one
+[00:04.97] I guess we here for another one
+[00:08.15] Woo-ah-ah-ah (switch up)
+[00:20.15] 
+[00:11.92] (Flip it) jumpin' up and down
+[00:13.32] 눈에 불을 켜고 spit, spit, spit
+[00:15.88] 소릴 질러 봐야 너만 손해 click, click, click
+[00:18.89] (What's up?) 쟨 누구니
+[00:20.10] (Get up) don't cause a scene
+[00:21.53] 빨리 빨리 나가 now (switch up)
+[00:24.26] Say what you like 안 들려 난
+[00:27.76] 걔 말은 전부 lie, lie, lie
+[00:30.49] 애쓰면 뭐해 안 봐도 뻔해
+[00:33.32] 누가 믿어줄거라고 착각해
+[00:39.82] 
+[00:35.89] Okay, okay, okay-oh (hey!)
+[00:37.98] 하늘 위에 떠 있거나 (ah-ayy)
+[00:41.66] Okay, okay, okay-oh (hey!)
+[00:43.53] 낯선 곳의 밤
+[00:46.23] 나와 나와 가자
+[00:50.23] 
+[00:47.64] Uh-oh, dancing like a maniac
+[00:50.67] 여긴 어디 tell me where the party at
+[00:53.25] Uh-oh, 별이 차 오르는데
+[00:56.79] Yeah, yeah, yeah, yeah-yeah
+[01:00.38] 밤 하늘에 흩어지는
+[01:02.83] 불빛들처럼 지금 빛나고 싶어 okay
+[01:06.16] Dancing away, I really don't care now
+[01:08.51] 놀아버리자 shake it like a maniac, okay
+[01:25.51] 
+[01:11.47] Lit lit lit what is going on
+[01:14.48] Yup, I've been waiting for a million (million)
+[01:17.42] Yup, 더 기다릴 수는 없고
+[01:19.37] Go light it up and let me know
+[01:20.70] Are you ready for some pum-pum-pum-pum (switch up)
+[01:23.55] Say what you like 안 들려 난
+[01:26.54] 똑같은 얘기 why, why, why (oh-yeah)
+[01:29.45] 왜 나를 위해 그런다 말해
+[01:32.47] 내가 들어줄거라고 착각해
+[01:38.97] 
+[01:34.87] Okay, okay, okay-oh (hey!)
+[01:37.24] 하늘 위에 떠 있거나 (ah-ayy)
+[01:40.87] Okay, okay, okay-oh (hey!)
+[01:42.67] 낯선 곳의 밤
+[01:45.88] 나와 나와 가자
+[01:49.88] 
+[01:46.83] Uh-oh, dancing like a maniac
+[01:49.83] 여긴 어디 tell me where the party at
+[01:52.78] Uh-oh, 별이 차 오르는데
+[01:56.16] Yeah, yeah, yeah, yeah-yeah
+[01:59.42] 밤 하늘에 흩어지는
+[02:02.17] 불빛들처럼 지금 빛나고 싶어 okay
+[02:05.32] Dancing away, I really don't care now
+[02:08.06] 놀아버리자 shake it like a maniac, okay
+[02:25.06] 
+[02:11.20] 자 지금부터야
+[02:13.98] Now, it's my time, now it's my time
+[02:16.63] 잘 따라만 오면 that is it
+[02:21.06] I'm the where the party's at (at)
+[02:24.46] Switch it up, won't you join? (Uh-ah-ah)
+[02:27.42] And we can we can light it up
+[02:30.59] I'll let everybody on
+[02:32.83] 나와 나와 가자
+[02:36.83] 
+[02:34.22] Uh-oh, dancing like a maniac
+[02:37.27] 여긴 어디 tell me where the party at (eh-eh)
+[02:40.32] Uh-oh, 별이 차 오르는데
+[02:43.63] Yeah, yeah, yeah, yeah-yeah (ooh-ooh)
+[02:46.84] 밤 하늘에 흩어지는
+[02:49.23] 불빛들처럼 지금 빛나고 싶어 okay
+[02:52.79] Dancing away, I really don't care now, nah-ayy
+[02:55.39] 놀아버리자 shake it like a maniac, okay
+```
